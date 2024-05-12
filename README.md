@@ -68,3 +68,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+Proje, bir hava durumu projesidir. Türkiye'nin şehilerini static olarak bir json dosyasından alınmıştır.
+Api olarak https://www.weatherapi.com/ kullanılmıştır. 
+Api key .env dosyasında mevcuttur. (Api key : b7877bf7c6d348549ff193717240805 )
+Projeyi aldıktan sonre terminale npm install komutunu yazmalısınız. Daha sonra terminal de weather-app klasörüne girmelisiniz (cd weather-app).
+Son olarak npm start komutunu kullanarak projeyi çalıştırabilirsiniz.
